@@ -1,0 +1,5 @@
+username: "postgres"
+password: "Parol123"
+host: "localhost"
+port: 5432
+databaseName: "conduit_money_app"
